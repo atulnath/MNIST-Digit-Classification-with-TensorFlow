@@ -19,21 +19,14 @@ pip install tensorflow numpy matplotlib
 ```
 
 ## Usage
-
-1. Clone the repository:
 ```bash
-git clone [https://github.com/atulnath/MNIST-Digit-Classification-with-TensorFlow/main/README.md]
+git clone [https://github.com/atulnath/MNIST-Digit-Classification-with-TensorFlow]
 cd mnist-digit-classification
-```
-
-2. Run the script:
-```bash
-python mnist_classification.py
 ```
 
 ## Code Structure
 
-The main script (`mnist_classification.py`) performs the following steps:
+The main script (`MNIST dataset digit classifications.ipynb`) performs the following steps:
 
 1. **Data Loading**: Loads the MNIST dataset using `keras.datasets.mnist.load_data()`.
 2. **Data Preprocessing**: Normalizes pixel values to the range [0, 1].
