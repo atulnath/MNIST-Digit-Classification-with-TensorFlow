@@ -22,7 +22,7 @@ pip install tensorflow numpy matplotlib
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/mnist-digit-classification.git
+git clone [https://github.com/atulnath/MNIST-Digit-Classification-with-TensorFlow/main/README.md]
 cd mnist-digit-classification
 ```
 
